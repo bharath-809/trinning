@@ -7,6 +7,3 @@ i should learn diffmerge
 i should learn properly instaling diffmerge
 what i want to learn
 revet and rebase
-
-
-
